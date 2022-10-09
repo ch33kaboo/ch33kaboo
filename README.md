@@ -25,9 +25,8 @@ I love creating cool things and learning new techs. I’m currently open for: a 
 ## Currently Learning
 
 <a href="https://www.docker.com/" target="_blank">Docker</a> — <a href="https://tauri.app/" target="_blank">Tauri</a> — <a href="https://www.cisco.com/" target="_blank">Networking</a>
-
 </div>
-<br>
+
 <div align="center">
 
 ## Current Expertise
